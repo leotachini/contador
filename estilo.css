@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: large;
+    
+}
+
+body{
+    padding: 10px;
+    background-color: rgb(238, 195, 87);
+    text-align: center;
+}
+
+#botao{
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+}
+
+#contaLabel{
+    font-size: 100px;
+    text-align: center;
+    align-items: center;
+}
+
+#diminui{
+    background-color: crimson;
+    margin-right: 10px;
+}
+
+#reseta{
+    background-color: deepskyblue;  
+    margin-right: 10px; 
+}
+
+#aumenta{
+    background-color: darkseagreen;
+}
